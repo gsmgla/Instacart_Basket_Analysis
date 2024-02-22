@@ -23,7 +23,7 @@ Tasks include:
 
 The dataset for this project was supplied by “The Instacart Online Grocery Shopping Dataset 2017.” Accessed from [Kaggle]( https://www.kaggle.com/c/instacart-market-basket-analysis/data)
 
-You can find the data dictionary [here](https://www.kaggle.com/c/instacart-market-basket-analysis/data).
+You can find the data dictionary [here]([https://www.kaggle.com/c/instacart-market-basket-analysis/data](https://github.com/gsmgla/Instacart_Basket_Analysis/blob/main/01%20Project%20Management/Instacart_Data_Dictionary.pdf)).
 
 CareerFoundry Customers Data Set, Accessed from [here]( https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
 
