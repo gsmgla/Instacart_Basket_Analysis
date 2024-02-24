@@ -39,4 +39,6 @@ _Software_: Jupyter Notebooks, Excel, Canva
 
 ## Visualization Sample
 
+The department with the most sales is the 'Produce' department. Below find a chart of the top 10 products that consumers are buying on Instacart.
+
 ![image]( https://github.com/gsmgla/Instacart_Basket_Analysis/blob/main/04%20Visualizations/popular_products_barchart.png)
