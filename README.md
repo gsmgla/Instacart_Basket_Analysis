@@ -37,4 +37,4 @@ _Libraries_: Pandas, NumPy, Matplotlib and Seaborn
 
 _Software_: Jupyter Notebooks, Excel, Canva
 
-## Code Snippet
+## Visualization Sample
