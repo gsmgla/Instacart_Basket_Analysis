@@ -38,3 +38,6 @@ _Libraries_: Pandas, NumPy, Matplotlib and Seaborn
 _Software_: Jupyter Notebooks, Excel, Canva
 
 ## Visualization Sample
+
+![Top 10 Popular Products in the ‘Produce’ Department ](/Visualizations/popular_products_barchart.png)
+![image](https://github.com/gsmgla/Instacart_Basket_Analysis/blob/main/04%20Visualizations/popular_products_barchart.png)
